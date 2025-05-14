@@ -5,15 +5,15 @@ permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+[Download my CV]({{ "/assets/Benjamin Okoronkwo Resume.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [bco26@cornell.edu](mailto:bco26@cornell.edu) | | | **Phone:** 214 206 5988
+**Email:** [bco26@cornell.edu](mailto:bco26@cornell.edu) | | | **Phone:** +1 (214) 206-5988
 
 ---
 
 #### Objective
-I’m an action-oriented mechanical engineering student with experience in CAD, prototyping, and cross-functional collaboration. I’m seeking a Summer Internship where I can support product development through CAD modeling, iterative testing, and collaborative problem-solving in a fast-paced engineering environment.
+I’m an action-oriented mechanical engineering student with experience in CAD, prototyping, and cross-functional collaboration. I’m seeking opportunities where I can support product development through CAD modeling, iterative testing, and collaborative problem-solving in a fast-paced engineering environment.
 
 ---
 
@@ -31,7 +31,8 @@ I’m an action-oriented mechanical engineering student with experience in CAD, 
 #### Skills
 - **Technical Skills:** Fusion 360, Python, Arduino, 3D Printing, Laser Cutting, Microsoft Office Suite, AutoCAD basics   
 - **Soft Skills:** Creativity, Problem-Solving, Leadership, Communication, Adaptability, Teamwork, Critical Thinking
-- **Interests:** Mechanical Design, Product Development, Manufacturing, Robotics, Human-Centered Design, Sustainable Design 
+- **Interests:** Mechanical Design, Product Development, Manufacturing, Robotics, Human-Centered Design, Sustainable Design
+
 ---
 
 #### Work Experience
@@ -46,6 +47,7 @@ I’m an action-oriented mechanical engineering student with experience in CAD, 
  - Assisted in day-to-day operations a carpentry shop, translating technical drawings into sets and props
  - Collaborated with peers and supervisors on wood and metal projects while performing general shop maintenance
  - Fabricated sets using power tools and assisted with material handling that led to more efficient builds
+ 
 ---
 
 #### Project and Leadership Experience
