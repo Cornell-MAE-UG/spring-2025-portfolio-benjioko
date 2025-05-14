@@ -23,11 +23,11 @@ We used 2 variations of extrusions:
 - 1 in main frame - easy to add 1in together
 - 20 mm arms - a lighter and smaller alternative
 
-### Design Considerations
-➔ Electrical Component Placement
-➔ Stomach Housing
-➔ Eye Mechanism (scrapped)
-➔ Weight (torque, beam deformation, and buckling stress)
+**Design Considerations**
+- Electrical Component Placement
+- Stomach Housing
+- Eye Mechanism (scrapped)
+- Weight (torque, beam deformation, and buckling stress)
 
 ## ⚙️ The Tail
 ![Tail Prototype]({{ "/assets/images/axolotl/tail1.jpg" | relative_url }}){: .inline-image-r style="width: 180px" }
@@ -36,13 +36,13 @@ This was a Cable and Disk System that redistributes tensions in a cable to contr
 
 We started with a servo on each cable, but the electrical team couldn’t sync servo motion at the time (unreliable). Then we moved to a motor and gear system to control vertical and horizontal motion, but there wasn't much room in body due to the stomach. We then settled on a vertical servo and gear system that isolates vertical and horizontal motion while leaving space 😁.
 
-### Design Considerations
-➔ Isolation of Vertical and Horizontal Motion
-➔ Small footprint
-➔ Strong enough Cables
-➔ Tail Design with flexible motion
+**Design Considerations**
+- Isolation of Vertical and Horizontal Motion
+- Small footprint
+- Strong enough Cables
+- Tail Design with flexible motion
 
-### Engineers
+**Engineers**
 Arabella, Elise, and myself
 
 ## 🌊 The Water Spritz
@@ -50,32 +50,32 @@ Arabella, Elise, and myself
 One of the exciting features of our LOTL is its ability to spray water from one its arms to get a passerby’s attention.
 This is done through a custom water pump and some software and electrical work for a camera to sense hand motion that triggers the water to spray.
 
-## Design Considerations
-➔ Water Proofing
-➔ Mounting
-➔ Compatible Hardware
+**Design Considerations**
+- Water Proofing
+- Mounting
+- Compatible Hardware
 
-### Engineers
+**Engineers**
 Jason and myself
 
 ## 🤔 The Eyes (what went wrong)
 ![Dream Eyes]({{ "/assets/images/axolotl/eyedream.jpg" | relative_url }}){: .inline-image-r style="width: 180px" }
 An early idea was to have an eye move about a “socket” like a regular eye with a camera built into one of the eye caps.
 
-### Problems
-➔ Team of different skill sets
-➔ Initial mechanism was too large for the flap on the frame
-➔ Time
+**Problems**
+- Team of different skill sets
+- Initial mechanism was too large for the flap on the frame
+- Time
 
-### Engineers
+**Engineers**
 Elaine, Brianna, and myself
 
 ## 😰 Main Challenges
 ![Me Working]({{ "/assets/images/axolotl/meworking.JPG" | relative_url }}){: .inline-image-r style="width: 180px" }
-### 1. Ambition vs. Skill
+**1. Ambition vs. Skill**
 This was a very ambitious project with several moving parts and 3⁄4 of our team hadn’t touched a CAD software before working on the project. This led to a lot of working time teaching people how to use the software to a point where they felt confident
 
-### 2. Being Students and Communication
+**2. Being Students and Communication**
 We’re all students. Stuff happens. There were several times people weren’t able to come in for a week or had something unexpected pop-up. While I truly don’t mind, it meant I had to pick up a lot of the slack.
 
 ## 💡 Lessons Learned
